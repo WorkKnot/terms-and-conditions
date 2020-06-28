@@ -1,16 +1,28 @@
-.navbar{
-text-align: center;
+body{
+  background-color:#F2EFEE;
 }
 
+.navbar{
+text-align:center;
+margin: %;
+}
+
+/* .mx-auto{
+  text-align: center;
+  } */
+
 .logo{
-  width: 3rem;
-  height:3rem;
+  width: 4.2rem;
+  height:4.2rem;
 }
 
 .navbar-brand{
 font-size: 2rem;
+padding: 5% 0%;
+margin:0;
 }
 
 .jumbotron{
-  margin:1% 15%;
+  margin:1% 10%;
+  background-color:#FFFFFF;
 }
